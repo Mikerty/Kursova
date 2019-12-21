@@ -1,0 +1,24 @@
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\kurs.mdb
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Decuments\Visual Studio 2015\С#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Курсова\WindowsFormsApplication1\bin\Debug\kurs.mdb
+D:\Курсова\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Курсова\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Курсова\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Курсова\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
